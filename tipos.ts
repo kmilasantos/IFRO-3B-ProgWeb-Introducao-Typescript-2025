@@ -6,8 +6,8 @@ let numero: number = 42;
 let ativo: boolean = true;
 
 //Array
-let numeros: number[] = [1,2,3];
-let palavras: Array<string> = ["Typescript","é","massa!"];
+let numeros: number[] = [1,2,3]; /* primeira forma */
+let palavras: Array<string> = ["Typescript","é","massa!"]; /* segunda forma*/
 
 //Tuplas
 let pessoa: [string, number] = ['Camila', 28]
